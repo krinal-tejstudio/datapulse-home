@@ -12,7 +12,7 @@ const Resources: React.FC = () => {
             <Seo
                 title="Resources & Insights | DataPulse Technologies"
                 description="Guides, articles, and downloads for Labour Market Testing, recruitment compliance, and workforce solutions across Australia."
-                canonicalPath="https://datapulse-home.vercel.app/resources"
+                canonicalPath="/resources"
             />
             <Header />
             <InnerBannerTwo

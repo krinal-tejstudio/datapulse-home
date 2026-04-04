@@ -12,7 +12,7 @@ const Contact: React.FC = () => {
             <Seo
                 title="Contact Us | DataPulse Technologies"
                 description="Get in touch with DataPulse Technologies for Labour Market Testing, recruitment support, and workforce consulting. We’ll respond quickly with the right next steps."
-                canonicalPath="https://datapulse-home.vercel.app/contact"
+                canonicalPath="/contact"
             />
             <Header />
             <InnerBannerTwo
