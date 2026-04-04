@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://datapulsetech-home.vercel.app/sitemap.xml
+
+# Block unnecessary files
+Disallow: /src/
+Disallow: /node_modules/
+Disallow: /.git/
+Disallow: /dist/
