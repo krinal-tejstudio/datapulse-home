@@ -17,7 +17,7 @@ const Service:React.FC = () => {
             <Seo
                 title="Services | DataPulse Technologies"
                 description="Explore DataPulse services: Labour Market Testing (LMT), permanent & contract recruitment, specialized tech talent, flexible staffing, and end-to-end hiring support."
-                canonicalPath="https://datapulsetech-home.vercel.app/services"
+                canonicalPath="https://datapulse-home.vercel.app/services"
             />
             <Header />
             <InnerBannerTwo

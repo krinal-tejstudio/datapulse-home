@@ -17,7 +17,7 @@ const About: React.FC = () => {
             <Seo
                 title="About Us | DataPulse Technologies"
                 description="Learn about DataPulse Technologies—our mission, expertise, and approach to compliant Labour Market Testing, recruitment, and workforce solutions."
-                canonicalPath="https://datapulsetech-home.vercel.app/about"
+                canonicalPath="https://datapulse-home.vercel.app/about"
             />
             <Header />
             <InnerBannerTwo

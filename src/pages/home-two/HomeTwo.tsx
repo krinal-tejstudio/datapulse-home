@@ -23,7 +23,7 @@ const HomeTwo: React.FC = () => {
             <Seo
                 title="DataPulse Technologies | Recruitment & Workforce Solutions"
                 description="DataPulse Technologies provides Labour Market Testing (LMT), recruitment, and workforce consulting solutions across Australia. Hire smarter with compliant, end-to-end support."
-                canonicalPath="https://datapulsetech-home.vercel.app/"
+                canonicalPath="https://datapulse-home.vercel.app/"
             />
             <Header />
             <Banner />
