@@ -134,7 +134,7 @@ const HeaderCommon: React.FC = () => {
                             </ul>
                         </div>
                         <div className="main-menu-two__right">
-                            <div className="main-menu-two__call">
+                            {/* <div className="main-menu-two__call">
                                 <div className="main-menu-two__call-icon">
                                     <i className="icon-phone"></i>
                                 </div>
@@ -144,7 +144,7 @@ const HeaderCommon: React.FC = () => {
                                         <a href="tel:9288006780">+92 ( 8800 ) - 6780</a>
                                     </h5>
                                 </div>
-                            </div>
+                            </div> */}
                             <div className="main-menu-two__search-cart-box">
                                 <div className="main-menu-two__search-cart-box">
                                     <div className="main-menu-two__search-box" onClick={() => setIsSearch(pre => !pre)}>

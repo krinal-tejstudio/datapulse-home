@@ -55,7 +55,7 @@ const Header: React.FC = () => {
                         <div className="main-menu-two__left">
                             <div className="main-menu-two__logo">
                                 <Link to="/">
-                                    <img src={logo2} alt="Logo" max-width={230} />
+                                    <img src={logo2} alt="Logo" width={200} />
                                 </Link>
                             </div>
                         </div>

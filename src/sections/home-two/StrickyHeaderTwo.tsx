@@ -47,7 +47,7 @@ const StrickyHeaderTwo: React.FC = () => {
                             <ManuList />
                         </div>
                         <div className="main-menu-two__right">
-                            <div className="main-menu-two__call">
+                            {/* <div className="main-menu-two__call">
                                 <div className="main-menu-two__call-icon">
                                     <i className="icon-phone"></i>
                                 </div>
@@ -57,7 +57,7 @@ const StrickyHeaderTwo: React.FC = () => {
                                         <a href="tel:9288006780">+92 ( 8800 ) - 6780</a>
                                     </h5>
                                 </div>
-                            </div>
+                            </div> */}
                             <div className="main-menu-two__btn-box">
                                 <Link to="/contact" className="thm-btn thm-btn-two main-menu-two__btn">
                                     Get in Touch

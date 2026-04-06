@@ -4,7 +4,7 @@
 .sliding-text-two {
     position: relative;
     display: block;
-    border-top: 1px solid rgba(var(--finris-base-rgb), .15);
+    border-top: 1px solid rgba(var(--finris-base-rgb), .8);
     border-bottom: 1px solid rgba(var(--finris-base-rgb), .15);
     z-index: 1;
     padding: 17px 0 10px;
@@ -54,7 +54,7 @@
     -webkit-text-stroke: 1px rgba(var(--finris-base-rgb), .15);
     font-size: 80px;
     line-height: .8em;
-    font-weight: 400;
+    font-weight: 600;
     transition: all 200ms linear;
     transition-delay: 0.1s;
     font-family: var(--finris-font-two);
