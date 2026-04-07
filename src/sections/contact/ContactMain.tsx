@@ -89,7 +89,7 @@ const ContactMain: React.FC = () => {
                                         <img 
                                             src={contactIcon}
                                             alt="Contact Icon"
-                                            style={{ width: "60px", height: "60px", objectFit: "contain" }}
+                                            style={{ width: "50px", height: "50px", objectFit: "contain" }}
                                             width={60}
                                             height={60}
                                         />
@@ -131,6 +131,15 @@ const ContactMain: React.FC = () => {
                                                     <span className="icon-resume"></span>
                                                 </div>
                                                 <input type="text" name="subject" placeholder="Subject" required />
+                                            </div>
+                                        </div>
+
+                                        <div className="col-xl-12">
+                                            <div className="contact-page__input-box">
+                                                <div className="contact-page__input-icon">
+                                                    <span className="icon-resume"></span>
+                                                </div>
+                                                <input type="text" name="contact" placeholder="Contact Number" required />
                                             </div>
                                         </div>
 

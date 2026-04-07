@@ -24,7 +24,7 @@ export const servicesTow: ServicesTow[] = [
         title: 'Labour Market Testing (LMT)',
         link: '/services',
         description:
-            "We produce DHA-compliant LMT reports including job ad drafting, applicant tracking, and rejection summaries. Professionally prepared, fully nomination-ready.",
+            "We produce compliant LMT reports including job ad drafting, applicant tracking, and rejection summaries. Professionally prepared, fully nomination-ready.",
     },
     {
         id: 2,
@@ -131,7 +131,7 @@ export const servicesOneData: ServiceOneItem[] = [
         title: 'Labour Market Testing (LMT)',
         link: '/services',
         description:
-            "We produce DHA-compliant LMT reports including job ad drafting, applicant tracking, and rejection summaries. Professionally prepared and nomination-ready.",
+            "We produce compliant LMT reports including job ad drafting, applicant tracking, and rejection summaries. Professionally prepared and nomination-ready.",
         include: [
             "Job advertising",
             "Market research",

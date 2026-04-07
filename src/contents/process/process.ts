@@ -22,7 +22,7 @@ export const processData: ProcessItem[] = [
         id: 2,
         title: 'Strategy & Compliance',
         description:
-            'We prepare DHA-compliant documentation, job ads, and recruitment plans aligned with your requirements.',
+            'We prepare compliant documentation, job ads, and recruitment plans aligned with your requirements.',
         icon: processIcon2,
         shape: processShape2,
         animation: 'fadeInRight',

@@ -85,7 +85,7 @@ const AboutTwo: React.FC = () => {
                                         <div className="content">
                                             <h3>Compliance Assurance</h3>
                                             <p>
-                                            DHA-compliant, nomination-ready documentation.
+                                            compliant, nomination-ready documentation.
                                             </p>
                                         </div>
                                     </li>
